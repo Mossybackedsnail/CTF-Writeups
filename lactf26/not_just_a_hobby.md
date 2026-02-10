@@ -56,7 +56,7 @@ Lo and behold! We have our flag.
 
 <details>
 	<summary>Solver script for anyone interested</summary>
-	(Added a -u cla to easily toggle between 128x128 and 640x640
+	(Added a -u cla to easily toggle between 128x128 and 640x640)
 	```
 	import numpy
 import matplotlib.pyplot as plt
